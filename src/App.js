@@ -1,9 +1,9 @@
 
 
-import Header from './components/Header';
-import AddTask from './components/AddTask';
+import Header from './Components/Header';
+import AddTask from './Components/AddTask';
 import Task from './Components/Task';
-import Footer from './components/Footer';
+import Footer from './Components/Footer';
 
 function App() {
   return (
